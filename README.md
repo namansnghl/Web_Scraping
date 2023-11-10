@@ -1,1 +1,2 @@
-# Web_Scraping
+# Extracting Data from the Web
+This repository compiles efforts in retrieving data from the internet and conducting preliminary analyses on the acquired information. The data comes in various formats, including JSON, XML, and HTML.
